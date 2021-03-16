@@ -1,2 +1,2 @@
-# git-latest.github.io
-*** git-latest ***
+# latest-scripts.github.io
+*** latest-scripts ***
